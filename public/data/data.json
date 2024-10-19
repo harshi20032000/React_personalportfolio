@@ -1,0 +1,95 @@
+{
+    "companies": [
+      {
+        "name": "Harshi Web Solution",
+        "Board of directors": [
+          {
+            "name": "Harshikesh Dubey",
+            "address": "Housing complex",
+            "designation": "Java Developer"
+          }
+        ],
+        "Share holder": [
+          {
+            "name": "Harshikesh Dubey",
+            "address": "Housing complex",
+            "No of sharehold": "100",
+            "In percent sharehold": "100"
+          }
+        ]
+      },
+      {
+        "name": "Hooman Dev",
+        "Board of directors": [
+          {
+            "name": "Director 1",
+            "address": "Address 1",
+            "designation": "Software Engineer"
+          }
+        ],
+        "Share holder": [
+          {
+            "name": "Shareholder 1",
+            "address": "Address 1",
+            "No of sharehold": "75",
+            "In percent sharehold": "75"
+          }
+        ]
+      },
+      {
+        "name": "Project Green",
+        "Board of directors": [
+          {
+            "name": "Director 2",
+            "address": "Address 2",
+            "designation": "Project Manager"
+          }
+        ],
+        "Share holder": [
+          {
+            "name": "Shareholder 2",
+            "address": "Address 2",
+            "No of sharehold": "60",
+            "In percent sharehold": "60"
+          }
+        ]
+      },
+      {
+        "name": "Shanno Travels",
+        "Board of directors": [
+          {
+            "name": "Director 3",
+            "address": "Address 3",
+            "designation": "Travel Consultant"
+          }
+        ],
+        "Share holder": [
+          {
+            "name": "Shareholder 3",
+            "address": "Address 3",
+            "No of sharehold": "50",
+            "In percent sharehold": "50"
+          }
+        ]
+      },
+      {
+        "name": "Bikash Thai Massage",
+        "Board of directors": [
+          {
+            "name": "Director 4",
+            "address": "Address 4",
+            "designation": "Massage Therapist"
+          }
+        ],
+        "Share holder": [
+          {
+            "name": "Shareholder 4",
+            "address": "Address 4",
+            "No of sharehold": "40",
+            "In percent sharehold": "40"
+          }
+        ]
+      }
+    ]
+  }
+  
